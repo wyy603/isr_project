@@ -1,0 +1,1 @@
+python  legged_gym/scripts/train.py --headless --use_wandb --task=h12_rma --run_name=rma-teacher

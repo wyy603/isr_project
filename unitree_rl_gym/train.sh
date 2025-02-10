@@ -1,0 +1,1 @@
+python legged_gym/scripts/train.py --headless --use_wandb --task=h1_2 --run_name=baseline

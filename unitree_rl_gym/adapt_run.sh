@@ -1,0 +1,1 @@
+python legged_gym/scripts/play.py --headless --task=h12_adaption --run_name=rma-adaptation

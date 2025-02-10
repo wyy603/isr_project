@@ -1,0 +1,1 @@
+python legged_gym/scripts/play.py --headless --task=h1_2 --run_name=baseline --load_run=-1

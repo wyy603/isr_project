@@ -1,0 +1,59 @@
+{
+  "os": "Linux-5.4.0-150-generic-x86_64-with-glibc2.17",
+  "python": "3.8.20",
+  "startedAt": "2024-12-26T10:26:24.868940Z",
+  "args": [
+    "--headless",
+    "--use_wandb",
+    "--task=h12_rma",
+    "--run_name=wyy-rma-teacher",
+    "--rl_device=cuda:1"
+  ],
+  "program": "legged_gym/scripts/train.py",
+  "codePath": "legged_gym/scripts/train.py",
+  "git": {
+    "remote": "https://github.com/unitreerobotics/unitree_rl_gym.git",
+    "commit": "fb7514ad38fd7d0bb7761beda6c244befa61f9d6"
+  },
+  "email": "2098659880@qq.com",
+  "root": "/home/changruinian/h12/unitree_rl_gym",
+  "host": "aa-TRX40-AORUS-XTREME",
+  "username": "changruinian",
+  "executable": "/home/changruinian/anaconda3/envs/hoi/bin/python",
+  "codePathLocal": "legged_gym/scripts/train.py",
+  "cpu_count": 32,
+  "cpu_count_logical": 64,
+  "gpu": "NVIDIA GeForce RTX 3090",
+  "gpu_count": 3,
+  "disk": {
+    "/": {
+      "total": "1888559353856",
+      "used": "1678504845312"
+    }
+  },
+  "memory": {
+    "total": "270199746560"
+  },
+  "cpu": {
+    "count": 32,
+    "countLogical": 64
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3090",
+      "memoryTotal": "25444548608",
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 3090",
+      "memoryTotal": "25447170048",
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 3090",
+      "memoryTotal": "25447170048",
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "11.4"
+}
