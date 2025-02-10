@@ -163,6 +163,8 @@ logs
 
 # custom
 videos/*
+!videos/H12_rma
+videos/H12_rma/*
 !videos/H12_rma/2025-02-10_17-45-24_H12_rma_wyy-rma-teacher.mp4
 wandb/*
 !wandb/run-20241226_182624-mv095ptl
