@@ -1,5 +1,5 @@
 # Introduction
-This is a project that I worked on with Ruinian Chang for the course "Intelligent Systems and Robotics." We utilized the [Unitree RL Gym](https://github.com/unitreerobotics/unitree_rl_gym) and its H1_2 robot model, selecting [Rapid Motor Adaptation (RMA)](https://arxiv.org/abs/2107.04034) as our method. Through continuous parameter tuning and multiple training iterations, we successfully enabled a legged robot to run stably at a speed of 4 m/s on randomly generated terrains with heights ranging from [-0.07 m, 0.07 m] in the Isaac Gym simulation environment.
+This is a project that I worked on with [127command](https://github.com/127command) for the course "Intelligent Systems and Robotics." We utilized the [Unitree RL Gym](https://github.com/unitreerobotics/unitree_rl_gym) and its H1_2 robot model, selecting [Rapid Motor Adaptation (RMA)](https://arxiv.org/abs/2107.04034) as our method. Through continuous parameter tuning and multiple training iterations, we successfully enabled a legged robot to run stably at a speed of 4 m/s on randomly generated terrains with heights ranging from [-0.07 m, 0.07 m] in the Isaac Gym simulation environment.
 
 https://github.com/user-attachments/assets/ff227833-eb70-4336-984e-eb3266653924
 
